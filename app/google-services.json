@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726199596295",
+    "firebase_url": "https://beautefactory-b1217.firebaseio.com",
+    "project_id": "beautefactory-b1217",
+    "storage_bucket": "beautefactory-b1217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726199596295:android:182bb80f41a4dd597541a2",
+        "android_client_info": {
+          "package_name": "com.rameezsajid.beautefactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726199596295-4dqbetl29lrip0ri49rctjc08rlmud80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rameezsajid.beautefactory",
+            "certificate_hash": "aec281a392dedc6b4cef799290d7987e272825ab"
+          }
+        },
+        {
+          "client_id": "726199596295-61fkquj4a9utq25k77cdfhd8raefptq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlQ2REruPLXzI28HDeaK2tl-imUMBkRl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726199596295-61fkquj4a9utq25k77cdfhd8raefptq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

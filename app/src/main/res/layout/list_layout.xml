@@ -1,0 +1,72 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="5dp"
+    android:background="#B3000000"
+    android:id="@+id/linearLayout">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/book_now"
+        android:padding="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/reltop">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lahore, Pakistan"
+                android:id="@+id/textViewLocation"
+                android:textColor="#fff"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2 Lakhs PKR"
+                android:id="@+id/textViewPrice"
+                android:textColor="#fff"
+                android:layout_alignParentEnd="true"
+                android:textSize="14sp"/>
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="21.10.2020"
+            android:id="@+id/textViewDate"
+            android:textColor="#fff"
+            android:layout_below="@+id/reltop"
+            android:paddingTop="5dp"
+            android:textSize="11sp"/>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Touch To Book"
+            android:textColor="#fff"
+            android:layout_below="@+id/textViewDate"
+            android:layout_marginTop="5dp"
+            android:textSize="11sp"/>
+
+
+
+
+    </RelativeLayout>
+
+
+
+
+
+
+</RelativeLayout>
